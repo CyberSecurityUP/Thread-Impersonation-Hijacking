@@ -57,12 +57,3 @@ The **Thread Hijacking with Impersonation** technique is a low-level approach th
 6. **Thread Selection Criteria**:
    - Implement more granular criteria to select the best thread for impersonation, such as CPU usage or state.
 
-## **Disclaimer**
-This project is intended for **educational purposes only**. Unauthorized use of this technique in real-world environments may violate laws and ethical guidelines. Use it only in controlled environments and with explicit permission from the target system owner.
-
-## **License**
-MIT License. Use and modify the project freely, provided proper attribution is given.
-
-## **Acknowledgments**
-- Inspired by research on Windows Internals and advanced process manipulation.
-- Contributions from the open-source security community for guidance on safe and ethical testing practices.
